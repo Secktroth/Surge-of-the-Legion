@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 2Handed Warrior Animation Controller
+  m_Controller: {fileID: 9100000, guid: 1b4752494a9ae7a4bbb62ef8dadda9e8, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: e603301a2ffc2934d9beac351809b072, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e603301a2ffc2934d9beac351809b072, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7a186c9ec25190d4e9344cc6ead617ac, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7a186c9ec25190d4e9344cc6ead617ac, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 89768f53fa7672741807964763be9999, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 89768f53fa7672741807964763be9999, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 2d18189b9d4c61c449ec790f45196091, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2d18189b9d4c61c449ec790f45196091, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 39087a1e3c283fe418894a405e80e150, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 39087a1e3c283fe418894a405e80e150, type: 2}
